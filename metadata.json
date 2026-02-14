@@ -1,0 +1,7 @@
+{
+  "name": "SentinelSafe AI",
+  "description": "An advanced AI-powered security operations center (SOC) dashboard that leverages Gemini for threat analysis, log investigations, and real-time security posture monitoring.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
